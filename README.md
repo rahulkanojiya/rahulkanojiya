@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![Twitter: DishantSingh](https://img.shields.io/twitter/follow/Rahulk809?style=social)](https://twitter.com/Dishantsingh5)
-[![Linkedin: DishantSingh](https://img.shields.io/badge/-DishantSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-singh-6b05a7138/)](https://www.linkedin.com/in/dishant-singh-6b05a7138/)
-[![GitHub:DishantSingh](https://img.shields.io/github/followers/dishantsingh1998?label=follow&style=social)](https://github.com/dishantsingh1998)
+[![Twitter: RahulKanojiya](https://img.shields.io/twitter/follow/Rahulk809?style=social)](https://twitter.com/Rahulk809)
+[![Linkedin: RahulKanojiya](https://img.shields.io/badge/-RahulKanojiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-kanojiya-6b05a7138/)](https://www.linkedin.com/in/rahulkanojiya/)
+[![GitHub:RahulKanojiya](https://img.shields.io/github/followers/rahulkanojiya?label=follow&style=social)](https://github.com/dishantsingh1998)
 
 
 **Languages and Tools:**  
