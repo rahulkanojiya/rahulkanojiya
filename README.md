@@ -36,27 +36,21 @@ Here are some ideas to get you started:
 
 [![Twitter: RahulKanojiya](https://img.shields.io/twitter/follow/Rahulk809?style=social)](https://twitter.com/Rahulk809)
 [![Linkedin: RahulKanojiya](https://img.shields.io/badge/-RahulKanojiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-kanojiya-6b05a7138/)](https://www.linkedin.com/in/rahulkanojiya/)
-[![GitHub:RahulKanojiya](https://img.shields.io/github/followers/rahulkanojiya?label=follow&style=social)](https://github.com/dishantsingh1998)
+[![GitHub:RahulKanojiya](https://img.shields.io/github/followers/rahulkanojiya?label=follow&style=social)](https://github.com/rahulkanojiya)
 
 
 **Languages and Tools:**  
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+
 
 <a href="https://github.com/rahulkanojiya">
-<img align="center" src ="https://github-readme-stats.vercel.app/api?username=dishantsingh1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=rahulkanojiya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
-<a href="https://github.com/dishantsingh1998">
- <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dishantsingh1998&layout=compact&langs_count=8&theme=algolia" alt="Dishant's github stats"/>
+<a href="https://github.com/rahulkanojiya">
+ <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulkanojiya&layout=compact&langs_count=8&theme=algolia" alt="Rahul's github stats"/>
 </a>
 
 <div align="center">
