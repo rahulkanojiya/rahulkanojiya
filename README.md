@@ -24,8 +24,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MACHINE LEARNING ALGORITHM
-- 🌱 I’m currently learning DEEP Learning
+- 🔭 I’m a Data Analyst ( Power BI, SQL, Python, Excel)
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python, data science and machine learning
 - 📫 How to reach me:rahulkanojiya809@gmail,com
